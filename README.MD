@@ -20,6 +20,7 @@
 In the notebook, you'll find visualizations using Matplotlib and Seaborn to gain insights into the data. Explore charts and graphs that provide a comprehensive overview of customer behavior and potential churn factors.
 
 ![eda1](https://raw.githubusercontent.com/NyAiko/Churn-Prediction-Travel-and-tours/master/images/download.png)
+![im2](https://raw.githubusercontent.com/NyAiko/Churn-Prediction-Travel-and-tours/master/images/download%20(1).png)
 
 ## Model Performance
 
@@ -28,6 +29,8 @@ In the notebook, you'll find visualizations using Matplotlib and Seaborn to gain
 - **Recall (0.8):** Effectively identifies 80% of actual churn instances, reducing the likelihood of overlooking potential churn.
   
 - **F1 Score (0.6):** Achieves a balanced trade-off between precision and recall, providing a comprehensive evaluation of the model's predictive capabilities.
+
+![im](https://raw.githubusercontent.com/NyAiko/Churn-Prediction-Travel-and-tours/master/images/download%20(3).png)
 
 ## How to Open the Notebook
 
