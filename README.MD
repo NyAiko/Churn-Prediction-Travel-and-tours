@@ -19,6 +19,8 @@
 
 In the notebook, you'll find visualizations using Matplotlib and Seaborn to gain insights into the data. Explore charts and graphs that provide a comprehensive overview of customer behavior and potential churn factors.
 
+![eda1](https://raw.githubusercontent.com/NyAiko/Churn-Prediction-Travel-and-tours/master/images/download.png)
+
 ## Model Performance
 
 - **Precision (0.5):** The model accurately predicts 50% of customers at risk of churn, minimizing false positives.
